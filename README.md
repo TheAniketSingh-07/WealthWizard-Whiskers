@@ -58,7 +58,7 @@ Enable user login and personalized portfolios.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/wealthwizard-whiskers.git
+git clone https://github.com/theaniketsingh-07/wealthwizard-whiskers.git
 
 
 Open the folder:
