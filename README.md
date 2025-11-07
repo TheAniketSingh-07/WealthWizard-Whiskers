@@ -1,5 +1,5 @@
 ---
-# title: WealthWizard Whiskers  ‍♂️💰
+# WealthWizard Whiskers  ‍♂️💰
 ---
 
 # Welcome to your new DeepSite project!
